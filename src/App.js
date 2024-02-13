@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  const [counter, setCounter] = useState(0);
+  const [counter, setCounter] = useState(0); //usestate
   // the counter inside the [] is a variable and the setCounter is function
   //let counter = 15
 
